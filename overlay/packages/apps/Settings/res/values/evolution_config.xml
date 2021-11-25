@@ -21,5 +21,12 @@
          3 = right side
     -->
     <integer name="config_fingerprintSensorLocation">0</integer>
+     
+<!-- Add Maintainer Name -->
 
+    <string name="build_maintainer_summary">AashiQ.exe</string>
+
+     
+
+</resources>
 </resources>
