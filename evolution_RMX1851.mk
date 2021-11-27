@@ -5,7 +5,7 @@
 #
 
 # Inherit some common PixelExperience stuff.
-$(call inherit-product, vendor/evolution /config/common_full_phone.mk)
+$(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 # Inherit from RMX1851 device.
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
